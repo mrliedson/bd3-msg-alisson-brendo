@@ -1,0 +1,26 @@
+{
+  "name": "web-chat-bd3-2025-2",
+  "version": "1.0.0",
+  "description": "Um webchat simples para a demostrção do uso do MongoDB. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "mongodb",
+    "bd3",
+    "chat",
+    "web"
+  ],
+  "author": "Cristiano Correa de Moraes",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
