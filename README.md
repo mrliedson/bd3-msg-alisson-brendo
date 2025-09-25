@@ -1,2 +1,2 @@
-# webchat-bd3-2025-2
+# chat-de-falar
 Repositório para alocar um projeto que trabalha com Banco NOSQL BACK-END e FRONT-END
